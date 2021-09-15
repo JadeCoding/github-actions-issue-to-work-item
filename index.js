@@ -124,7 +124,7 @@ async function main() {
         console.log("transferred action is not yet implemented");
         break;
       case "commented":
-          console.log("transferred action is not yet implemented");
+          console.log("commented action is not yet implemented");
           break;
       default:
         console.log(`unhandled action: ${vm.action}`);
